@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2020 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">First Compose</string>
+    <string name="label_back">Back</string>
+
+    <!-- Onboarding -->
+    <string name="choose_types_that_interest_you">Choose types that interest you</string>
+    <string name="label_continue_to_puppies">Continue to puppies</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_settings">Settings</string>
+s
+    <!-- puppies -->
+    <string name="my_puppies">My puppies</string>
+    <string name="puppy_price"> $%1$d</string>
+
+    <!--sample data-->
+    <string name="puppy_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="what_you_ll_need">What You\'ll Need:</string>
+    <string name="you_ll_also_like">You\'ll Also Like</string>
+    <string name="needs">• DSLR or manual camera\n• 24mm wide angle lens\n• Tripod</string>
+    <string name="step_0">Identify the right aperture for your scene\'s depth of field to achieve the best clarity. Use a narrower aperture so that the entire scene remains in focus.</string>
+    <string name="step_1">Frame the subject of your landscape by making use of the lines and angles present in your scene. Look out for curves, textures, triangles, thirds, and other shapes that improve your composition.</string>
+    <string name="step_2">Find the time of the day with the best light conditions for your scene. Balance the light sources in your composition so that both light and shadows are present, adding depth, texture, and scale to your landscape.</string>
+
+</resources>
